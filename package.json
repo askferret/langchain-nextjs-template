@@ -13,8 +13,8 @@
     "node": ">=18"
   },
   "dependencies": {
-    "@langchain/community": "^0.2.23",
-    "@langchain/core": "^0.2.20",
+    "@langchain/community": "^1.1.18",
+    "@langchain/core": "^0.3.80",
     "@langchain/langgraph": "^0.0.31",
     "@langchain/openai": "^0.2.5",
     "@next/bundle-analyzer": "^13.4.19",
@@ -22,13 +22,13 @@
     "@types/node": "20.12.12",
     "@types/react": "18.3.2",
     "@types/react-dom": "18.3.0",
-    "ai": "^3.1.12",
+    "ai": "^5.0.52",
     "autoprefixer": "10.4.14",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.12",
-    "langchain": "^0.2.12",
-    "next": "^14.2.3",
-    "postcss": "8.4.27",
+    "langchain": "^0.2.19",
+    "next": "^15.5.18",
+    "postcss": "8.5.10",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-toastify": "^9.1.3",
@@ -41,11 +41,11 @@
     "prettier": "3.0.0"
   },
   "resolutions": {
-    "@langchain/core": "0.2.20"
+    "@langchain/core": "0.3.80"
   },
   "pnpm": {
     "overrides": {
-      "@langchain/core": "0.2.20"
+      "@langchain/core": "0.3.80"
     }
   },
   "packageManager": "yarn@3.5.1"
